@@ -2,4 +2,4 @@
 /build/
 .settings
 .gradle
-*.classpath
+.classpath
